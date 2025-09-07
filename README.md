@@ -2,18 +2,6 @@
 
 An intelligent web application built with Streamlit that automatically detects and classifies vehicle damage from images, helping users, insurers, and car repair professionals quickly assess a car’s condition. By simply uploading a photo of a vehicle (preferably from a third-quarter front or rear view), the app uses a deep learning model to predict the type of damage.
 
----
-
-## 🌐 Live Website
-You can try the tool live here: **[Car Damage Detector](https://vaibhav-project-car-damage-detector.streamlit.app/)**
-
----
-
-## 🎥 Presentation
-Watch the full project presentation here: **[Car Damage Detector Presentation](https://vaibhav-projects.my.canva.site/car-damage-detector)**
-
----
-
 ## 🛠 Features  
 - Upload a vehicle photo and instantly get a prediction for damage type. 
 - Classifies images into 6 target classes:
